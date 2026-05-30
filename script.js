@@ -238,7 +238,7 @@ coachForm.addEventListener('submit', async (event) => {
 
     try {
         // 3. ENVIAMOS LOS DATOS A NUESTRA FUNCIÓN OCULTA DE NETLIFY
-        const response = await fetch('/.netlify/functions/send', {
+        const response = await fetch('/api/send', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(data)
