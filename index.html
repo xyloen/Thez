@@ -1,0 +1,360 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>The Z - Better</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollToPlugin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+</head>
+<body>
+
+    <div class="video-background" aria-hidden="true">
+        <video autoplay loop muted playsinline>
+            <source src="img/lol.mp4" type="video/mp4" media="(min-width: 881px)">
+            <source src="img/the z.mp4" type="video/mp4">
+        </video>
+        <div class="video-overlay"></div>
+    </div>
+
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="index.html" class="navbar-logo">
+                <img src="https://cdn.discordapp.com/icons/1407804146492510279/a_9835487f79e547197907e24b4ffeffd8.gif?size=1024" alt="Logo" class="logo-img">
+            </a>
+
+            <ul class="navbar-menu">
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#coaching">Coaching</a></li>
+                <li><a href="#members">Members</a></li>
+                <li><a href="#maps">Maps</a></li>
+            </ul>
+
+            <div class="navbar-btn">
+                <a href="https://discord.gg/hzW4hU3yDU" class="btn-clan">
+                    Únete al clan
+                </a>
+            </div>
+
+            <button class="navbar-toggle" aria-label="Abrir menú">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </button>
+        </div>
+    </nav>
+
+    <section class="hero-section" id="home">
+        <div class="hero-container">
+            <h1 class="hero-title">The Z  Dominando</h1>
+            <p class="hero-subtitle">El verdadero nivel no se habla, se demuestra en el mapa.</p>
+            <div class="hero-extra">Únete a la evolución de Brawlhalla.</div>
+        </div>
+    </section>
+
+    <section class="about-clan" id="about">
+        <div class="about-card">
+            <div class="about-top">
+                <div class="about-logo-box">
+                    <img src="https://cdn.discordapp.com/icons/1407804146492510279/a_9835487f79e547197907e24b4ffeffd8.gif?size=1024" class="about-logo" alt="The Z logo">
+                    <div class="logo-glow"></div>
+                </div>
+
+                <div class="about-story">
+                    <span class="section-mini-title">ABOUT US</span>
+
+                    <h2>
+                        More Than A Clan.
+                        <br>
+                        A Competitive Identity.
+                    </h2>
+
+                    <p class="main-story">
+                        The Z no nació para ser un clan más.
+                        <span>Nació para convertirse en una identidad.</span>
+                    </p>
+
+                    <p>
+                        Fundado por <strong>John Gotti</strong>, The Z comenzó como una
+                        pequeña visión entre jugadores competitivos que querían algo
+                        distinto: una comunidad donde el verdadero nivel se demostrara
+                        dentro del mapa y no con palabras.
+                    </p>
+
+                    <p>
+                        Con el tiempo, el clan evolucionó hacia algo más grande:
+                        un espacio para jugadores con disciplina, mentalidad fuerte
+                        y hambre de mejorar constantemente.
+                    </p>
+
+                    <p>
+                        En The Z no buscamos solamente jugadores fuertes.
+                        <strong>Buscamos mentalidades fuertes.</strong>
+                    </p>
+
+                    <div class="quote-box">
+                        “El verdadero nivel no se habla,
+                        se demuestra.”
+                    </div>
+                </div>
+            </div>
+
+            <div class="founders-wrapper">
+    <div class="founder-header">
+        <span>THE LEADERS</span>
+        <h2>FOUNDERS</h2>
+    </div>
+
+    <div class="founders-grid">
+        <!-- John Gotti -->
+        <div class="founder-card">
+            <img src="img/Amethyst.png" alt="John Gotti">
+            <div>
+                <h3>John Gotti</h3>
+                <small>Líder | Main: Xull</small>
+                <p>
+                    Encargado de hacer los caminos para que las personas lleguen a la gloria.
+                </p>
+            </div>
+        </div>
+
+        <!-- COLD G -->
+        <div class="founder-card">
+            <img src="img/fenrix.png" alt="Cold G">
+            <div>
+                <h3>COLD G</h3>
+                <small>Líder | Main: Mordex</small>
+                <p>
+                    Aquel encargado de construir los pilares y mantener la estructura.
+                </p>
+            </div>
+        </div>
+
+        <!-- JACSEL -->
+        <div class="founder-card">
+            <img src="img/Ocelotl_Tezca.png" alt="Jacsel">
+            <div>
+                <h3>JACSEL</h3>
+                <small>Reclutador | Main: Tezca</small>
+                <p>
+                    Se adentra en cualquier lugar para buscar a los mejores guerreros.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+    </section>
+
+    <section class="coaching-page" id="coaching">
+        <div class="services-header">
+            <h2>ELITE COACHING TEAM</h2>
+            <div class="gold-line"></div>
+            <p>Train with competitive players. Improve your game. Reach peak performance.</p>
+        </div>
+
+        <div class="services-grid coaching-grid">
+            <div class="service-card-modern" data-coach="Beerck" style="background-image:url('img/luxury1.jpg')">
+                <div class="card-glow"></div>
+                <div class="glass-content">
+                    <span class="service-num"></span>
+                    <h3>Beerck</h3>
+                    <p>Maestro versátil de botas, guantes, martillo, cañón y chakrams. Especialista en reestructurar y elevar tu nivel general, enfocándose en mejorar tu jugabilidad por completo, desde los fundamentos más básicos hasta las mecánicas de élite. Coaching ideal para quienes buscan la excelencia absoluta en cualquier situación. Recomendado para jugadores de todos los niveles.</p>
+                    <div class="card-footer">
+                        <button class="btn-book">REQUEST COACH</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="service-card-modern" data-coach="Peruvian" style="background-image:url('img/fondo.jpg')">
+                <div class="card-glow"></div>
+                <div class="glass-content">
+                    <span class="service-num"></span>
+                    <h3>Peruvian</h3>
+                    <p>Main Xull y bestia indiscutible del cañón. Especialista absoluto en el spacing y el control milimétrico de la distancia. Su coaching te enseñará a dominar el rango de tus ataques, manejar el peso del combate pesado y utilizar el espaciado para abrir defensas y generar daño masivo. Recomendado para jugadores de 2000 a 2400.</p>
+                    <div class="card-footer">
+                        <button class="btn-book">REQUEST COACH</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="service-card-modern" data-coach="wSrun" style="background-image:url('img/luxury3.jpg')">
+                <div class="card-glow"></div>
+                <div class="glass-content">
+                    <span class="service-num"></span>
+                    <h3>wSrun</h3>
+                    <p>Dios de la Rocket Lance con dominio versátil en todas las armas del juego. Especialista en el arte del punisheo brutal y el control opresivo en el off-stage. Su enfoque te ayudará a castigar sin piedad cada error del oponente y a llevar el combate fuera de la plataforma con total seguridad. Recomendado para jugadores que buscan un estilo letal y calculador.</p>
+                    <div class="card-footer">
+                        <button class="btn-book">REQUEST COACH</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="service-card-modern" data-coach="Perzival" style="background-image:url('img/luxury.jpg')">
+                <div class="card-glow"></div>
+                <div class="glass-content">
+                    <span class="service-num"></span>
+                    <h3>Perzival</h3>
+                    <p>Especialista en la presión constante y el dominio del neutral game. Su coaching está diseñado para enseñarte a asfixiar al oponente de manera inteligente, manteniendo una ofensiva agresiva sin perder el control del posicionamiento. Ideal para jugadores que buscan un estilo opresivo. Recomendado para jugadores de 2000 en adelante.</p>
+                    <div class="card-footer">
+                        <button class="btn-book">REQUEST COACH</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="service-card-modern" data-coach="Bicho" style="background-image:url('img/luxury.jpg')">
+                <div class="card-glow"></div>
+                <div class="glass-content">
+                    <span class="service-num"></span>
+                    <h3>El Bicho</h3>
+                    <p>Estratega del combate y maestro en la toma de decisiones bajo presión. Especialista en mantener la frialdad mental, leer los hábitos del rival y ejecutar castigos milimétricos en situaciones críticas. Perfecto para fortalecer tu consistencia y adaptabilidad en partidas cerradas. Recomendado para jugadores que buscan mejorar su mindset y precisión.</p>
+                    <div class="card-footer">
+                        <button class="btn-book">REQUEST COACH</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <div class="coach-modal" id="coachModal">
+    <div class="coach-box">
+        <div class="coach-header">
+            <h2>RESERVA TU SESIÓN</h2>
+            <span class="close" onclick="closeModal()">✕</span>
+        </div>
+
+        <form id="coachForm">
+            <input type="text" id="user" placeholder="Tu nombre" maxlength="30" required>
+            <input type="text" id="discord" placeholder="Discord" maxlength="30" required>
+            
+            <input type="text" id="coach" readonly>
+            <select id="package"></select>
+            
+            <input type="number" id="elo" placeholder="ELO actual" min="0" max="4000" required>
+            
+            <textarea id="goal" placeholder="¿En qué quieres mejorar?" maxlength="250" required></textarea>
+            
+            <button type="submit">CONFIRMAR</button>
+        </form>
+    </div>
+</div>
+
+    <div id="toast" class="toast">✔ Enviado correctamente</div>
+
+    <section class="leaderboard-section" id="members">
+        <div class="leaderboard-panel">
+            <div class="lb-header">
+                <h2>TOP 25 ALL-TIME PEAK ELO</h2>
+                <div class="gold-line"></div>
+
+                <div class="lb-controls">
+                    <input type="text" id="searchPlayer" placeholder="🔍 Buscar jugador...">
+
+                    <select id="filterMain">
+                        <option value="all">— Todos los personajes —</option>
+                        <option value="Lady Vera">Lady Vera</option>
+                        <option value="Artemis">Artemis</option>
+                        <option value="Dusk">Dusk</option>
+                        <option value="Scarlet">Scarlet</option>
+                        <option value="Diana">Diana</option>
+                        <option value="Hattori">Hattori</option>
+                        <option value="Yumiko">Yumiko</option>
+                        <option value="Orion">Orion</option>
+                        <option value="Mordex">Mordex</option>
+                        <option value="Zariel">Zariel</option>
+                        <option value="Val">Val</option>
+                        <option value="Tezca">Tezca</option>
+                        <option value="Thor">Thor</option>
+                        <option value="N/A">N/A</option>
+                    </select>
+
+                    <select id="sortElo">
+                        <option value="desc">Mayor ELO primero</option>
+                        <option value="asc">Menor ELO primero</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="podium">
+                <div class="place second">
+                    <div class="rank-badge">#2</div>
+                    <div class="avatar">
+                        <img src="img/machoman.png" alt="machoman">
+                    </div>
+                    <span class="name">wSrun</span>
+                    <span class="elo elo-high">2400</span>
+                    <small>ulgrim</small>
+                </div>
+
+                <div class="place first">
+                    <div class="rank-badge">#1 👑</div>
+                    <div class="avatar">
+                        <img src="img/1.png" alt="Tezca">
+                    </div>
+                    <span class="name">Beerck</span>
+                    <span class="elo elo-high">2500</span>
+                    <small>Tezca</small>
+                </div>
+
+                <div class="place third">
+                    <div class="rank-badge">#3</div>
+                    <div class="avatar">
+                        <img src="img/Gridiron_Xull.png" alt="xull">
+                    </div>
+                    <span class="name">Peruvian</span>
+                    <span class="elo elo-high">2400</span>
+                    <small>xull</small>
+                </div>
+            </div>
+
+            <div class="lb-table-wrapper">
+                <table class="lb-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Jugador</th>
+                            <th>All Time Peak ELO</th>
+                            <th>Main</th>
+                        </tr>
+                    </thead>
+                    <tbody id="leaderboardBody"></tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <section class="maps-section" id="maps">
+        <div class="maps-panel">
+            <div class="lb-header">
+                <h2>MAPAS DEL CLAN</h2>
+                <div class="gold-line"></div>
+                <p class="maps-subtitle">Nuestra colección de mapas custom listos para jugar.</p>
+            </div>
+
+            <div class="maps-grid">
+                <div class="map-card"><img src="img/map.png" alt="Mapa 1"></div>
+                <div class="map-card"><img src="img/map1.png" alt="Mapa 2"></div>
+                <div class="map-card"><img src="img/map2.png" alt="Mapa 3"></div>
+                <div class="map-card"><img src="img/map3.png" alt="Mapa 4"></div>
+                <div class="map-card"><img src="img/map4.png" alt="Mapa 5"></div>
+                <div class="map-card"><img src="img/map5.png" alt="Mapa 6"></div>
+                <div class="map-card"><img src="img/map6.png" alt="Mapa 7"></div>
+                <div class="map-card"><img src="img/map7.png" alt="Mapa 8"></div>
+                <div class="map-card"><img src="img/map8.png" alt="Mapa 9"></div>
+                <div class="map-card"><img src="img/map9.png" alt="Mapa 10"></div>
+                <div class="map-card"><img src="img/map10.png" alt="Mapa 11"></div>
+            </div>
+
+            <div class="download-container">
+                <a href="https://file.freestorage-04.bond/files/2026/5/29/77a0063e-f49a-4c73-b249-54d424f40c3b/CLAN%20Z.rar?srl=J2gZzvqHrVPxOCdFBOyWMQ&exp=1780121357" class="btn-download" target="_blank" rel="noreferrer">
+                    DESCARGAR MAPAS
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
