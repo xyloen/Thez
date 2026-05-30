@@ -1,223 +1,105 @@
-exports.handler = async function (event) {
-
-    if (event.httpMethod !== "POST") {
-
-        return { statusCode: 405, body: "Method Not Allowed" };
-
+export default async function handler(req, res) {
+    // 1. Validar que sea POST (Sintaxis de Vercel)
+    if (req.method !== "POST") {
+        return res.status(405).json({ message: "Method Not Allowed" });
     }
-
-
 
     const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
 
-
-
     try {
-
-        const data = JSON.parse(event.body);
-
-
+        // 2. Vercel ya convierte el body automáticamente, no hace falta JSON.parse
+        const data = req.body;
 
         const safeData = {
-
             user: data.user || "No especificado",
-
             discord: data.discord || "No especificado",
-
             coach: data.coach || "No especificado",
-
             package: data.package || "No especificado",
-
             elo: data.elo || "0",
-
             goal: data.goal || "No especificado"
-
         };
 
-
-
+        // 3. TU DISEÑO INTACTO: Se mantiene exactamente como lo pediste
         const payload = {
-
             username: "The Z - Sistema de Reservas",
-
             avatar_url: "https://media.discordapp.net/attachments/1499887112579710976/1509381044586151936/5f9d180a-5150-48fe-a559-128e13e24952.png",
 
-
-
             embeds: [
-
                 {
-
                     author: {
-
                         name: "NUEVA SOLICITUD ENTRANTE",
-
                         icon_url: "https://cdn.discordapp.com/icons/1407804146492510279/a_9835487f79e547197907e24b4ffeffd8.gif?size=1024"
-
                     },
-
-
-
                     title: "🎯 ¡Reserva de Coaching Registrada!",
-
                     description: "Se ha recibido una nueva solicitud desde la página web. Aquí están los detalles del jugador:",
-
                     color: 0xc5a880,
-
-
-
                     fields: [
-
                         {
-
                             name: "👤 CLIENTE",
-
                             value: `> **${safeData.user}**`,
-
                             inline: true
-
                         },
-
                         {
-
                             name: "💬 DISCORD",
-
                             value: `> **${safeData.discord}**`,
-
                             inline: true
-
                         },
-
                         {
-
                             name: "🏆 ELO ACTUAL",
-
                             value: `> **${safeData.elo}**`,
-
                             inline: true
-
                         },
-
                         {
-
                             name: "🥋 COACH SELECCIONADO",
-
                             value: `> **${safeData.coach}**`,
-
                             inline: false
-
                         },
-
                         {
-
                             name: "📦 PAQUETE",
-
                             value: `> *${safeData.package}*`,
-
                             inline: false
-
                         },
-
                         {
-
                             name: "🎯 OBJETIVO / ¿EN QUÉ QUIERE MEJORAR?",
-
                             value: `\`\`\`text\n${safeData.goal}\n\`\`\``,
-
                             inline: false
-
                         }
-
                     ],
-
-
-
                     thumbnail: {
-
                         url: "https://cdn.discordapp.com/icons/1407804146492510279/a_9835487f79e547197907e24b4ffeffd8.gif?size=1024"
-
                     },
-
-
-
                     image: {
-
                         url: "https://cdn.discordapp.com/icons/1407804146492510279/a_9835487f79e547197907e24b4ffeffd8.gif?size=1024"
-
                     },
-
-
-
                     footer: {
-
                         text: "The Z Coaching • Sistema Automático",
-
                         icon_url: "https://cdn.discordapp.com/icons/1407804146492510279/a_9835487f79e547197907e24b4ffeffd8.gif?size=1024"
-
                     },
-
-
-
                     timestamp: new Date().toISOString()
-
                 }
-
             ]
-
         };
 
-
-
+        // 4. Enviar a Discord
         const response = await fetch(webhookUrl, {
-
             method: "POST",
-
             headers: {
-
-                "Content-Type": "application/json",
-
-                "User-Agent": "Netlify-Function"
-
+                "Content-Type": "application/json"
             },
-
             body: JSON.stringify(payload)
-
         });
 
-
-
         if (!response.ok) {
-
             throw new Error(`Discord error: ${response.status}`);
-
         }
 
-
-
-        return {
-
-            statusCode: 200,
-
-            body: JSON.stringify({ message: "Enviado correctamente" })
-
-        };
-
-
+        // 5. Respuesta exitosa (Sintaxis de Vercel)
+        return res.status(200).json({ message: "Enviado correctamente" });
 
     } catch (error) {
-
         console.error(error);
-
-
-
-        return {
-
-            statusCode: 500,
-
-            body: JSON.stringify({ error: "Error enviando webhook" })
-
-        };
-
+        
+        // 6. Respuesta de error (Sintaxis de Vercel)
+        return res.status(500).json({ error: "Error enviando webhook" });
     }
-
-};
+}
