@@ -732,20 +732,12 @@ button[type="submit"] {
 
 .place.first {
     transform: scale(1.12);
-    border: 1px solid rgba(255,215,0,0.45);
-    box-shadow: 0 0 35px rgba(255,215,0,0.18);
+    
     z-index: 2;
 }
 
-.place.second {
-    border: 1px solid rgba(192,192,192,0.35);
-    box-shadow: 0 0 30px rgba(192,192,192,0.12);
-}
 
-.place.third {
-    border: 1px solid rgba(205,127,50,0.35);
-    box-shadow: 0 0 30px rgba(205,127,50,0.12);
-}
+
 
 .rank-badge {
     display: inline-block;
@@ -762,12 +754,13 @@ button[type="submit"] {
 }
 
 .avatar {
-    width: 100px;
-    height: 100px;
+    
+    height: 200px;
     margin: 0 auto 10px;
     
     overflow: hidden;
-    
+    object-fit: cover;
+    object-position: center;
     box-shadow: 0 0 16px rgba(255,255,255,0.12);
     background: rgba(255,255,255,0.05);
     position: relative;
@@ -791,8 +784,8 @@ button[type="submit"] {
 .avatar img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    transform: scale(1.04);
+    object-fit: contain;
+    transform: scale(1);
 }
 
 .name {
