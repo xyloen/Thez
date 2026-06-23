@@ -1,8 +1,271 @@
-﻿var _0x34e=(443056^443063)+(482911^482909);const navbarToggle=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("elggot-rabvan.".split("").reverse().join(""));_0x34e=775308^775307;const navbarMenu=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u002E\u006E\u0061\u0076\u0062\u0061\u0072\u002D\u006D\u0065\u006E\u0075");const modal=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0063\u006F\u0061\u0063\u0068\u004D\u006F\u0064\u0061\u006C");var _0xa90d=(169661^169663)+(717206^717206);const coachInput=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0063\u006F\u0061\u0063\u0068");_0xa90d='\u0067\u0064\u0064\u0062\u0070\u006F';var _0x3e66dd=(746319^746316)+(726320^726327);const packageSelect=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u0061\u0063\u006B\u0061\u0067\u0065");_0x3e66dd="pjmnpb".split("").reverse().join("");const toast=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("tsaot".split("").reverse().join(""));const coachForm=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0063\u006F\u0061\u0063\u0068\u0046\u006F\u0072\u006D");const packs={'\u0042\u0065\u0065\u0072\u0063\u006B':["\u0031\u0020\u0048\u006F\u0072\u0061\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0042\u00E1\u0073\u0069\u0063\u006F\u0020\u002D\u0020\u0024\u0031\u0032","02$ - ovisnetnI gnihcaoC ed saroH 2".split("").reverse().join(""),"53$ - sadaznavA sacinc\xE9T & gnirrapS + saroH 3".split("").reverse().join("")],'\u0077\u0053\u0072\u0075\u006E':["\u0031\u0020\u0048\u006F\u0072\u0061\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0042\u00E1\u0073\u0069\u0063\u006F\u0020\u002D\u0020\u0024\u0031\u0030","51$ - ovisnetnI gnihcaoC ed saroH 2".split("").reverse().join(""),"03$ - sadaznavA sacinc\xE9T & gnirrapS + saroH 3".split("").reverse().join("")],'\u0053\u0070\u0061\u0063\u0065':["\u0031\u0020\u0048\u006F\u0072\u0061\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0042\u00E1\u0073\u0069\u0063\u006F\u0020\u002D\u0020\u0024\u0031\u0035","\u0032\u0020\u0048\u006F\u0072\u0061\u0073\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0049\u006E\u0074\u0065\u006E\u0073\u0069\u0076\u006F\u0020\u002D\u0020\u0024\u0033\u0030","05$ - sadaznavA sacinc\xE9T & gnirrapS + saroH 3".split("").reverse().join("")],'\u0048\u0061\u006E\u0061\u0062\u0069':["\u0031\u0020\u0048\u006F\u0072\u0061\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0042\u00E1\u0073\u0069\u0063\u006F\u0020\u002D\u0020\u0024\u0031\u0035","03$ - ovisnetnI gnihcaoC ed saroH 2".split("").reverse().join(""),"05$ - sadaznavA sacinc\xE9T & gnirrapS + saroH 3".split("").reverse().join("")],"Milka":["\u0031\u0020\u0048\u006F\u0072\u0061\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0042\u00E1\u0073\u0069\u0063\u006F\u0020\u002D\u0020\u0024\u0031\u0032","\u0032\u0020\u0048\u006F\u0072\u0061\u0073\u0020\u0064\u0065\u0020\u0043\u006F\u0061\u0063\u0068\u0069\u006E\u0067\u0020\u0049\u006E\u0074\u0065\u006E\u0073\u0069\u0076\u006F\u0020\u002D\u0020\u0024\u0032\u0030","53$ - sadaznavA sacinc\xE9T & gnirrapS + saroH 3".split("").reverse().join("")]};const players=[{"name":'Zomber',"elo":2900,'\u006D\u0061\u0069\u006E':'Val'},{"name":"\u0048\u0061\u006E\u0061\u0062\u0069",'\u0065\u006C\u006F':2900,'\u006D\u0061\u0069\u006E':"\u0048\u0061\u0074\u0074\u006F\u0072\u0069"},{'\u006E\u0061\u006D\u0065':"\u0053\u0070\u0061\u0063\u0065",'\u0065\u006C\u006F':2700,"main":"\u0057\u0075\u0020\u0053\u0068\u0061\u006E\u0067"},{'\u006E\u0061\u006D\u0065':"\u004D\u0069\u006C\u006B\u0061",'\u0065\u006C\u006F':2600,'\u006D\u0061\u0069\u006E':"\u0043\u0061\u0073\u0070\u0069\u0061\u006E"},{'\u006E\u0061\u006D\u0065':"\u0042\u0065\u0065\u0072\u0063\u006B","elo":2500,"main":'Tezca'},{"name":'Wsrun','\u0065\u006C\u006F':2500,'\u006D\u0061\u0069\u006E':"\u0055\u006C\u0067\u0072\u0069\u006D"},{"name":'Cocaine','\u0065\u006C\u006F':2400,'\u006D\u0061\u0069\u006E':'Orión'},{"name":'Perzival',"elo":2300,'\u006D\u0061\u0069\u006E':"\u0042\u0072\u0079\u006E\u006E"},{"name":"\u0045\u006C\u0020\u0042\u0069\u0063\u0068\u006F","elo":2300,'\u006D\u0061\u0069\u006E':"\u0044\u0069\u0061\u006E\u0061"},{'\u006E\u0061\u006D\u0065':"\u004A\u006F\u0068\u006E\u006E\u0079",'\u0065\u006C\u006F':2200,'\u006D\u0061\u0069\u006E':"\u004D\u006F\u0072\u0064\u0065\u0078"},{'\u006E\u0061\u006D\u0065':"\u0054\u006F\u0070\u0075\u0072\u0069\u006F",'\u0065\u006C\u006F':2200,'\u006D\u0061\u0069\u006E':'Teros'},{'\u006E\u0061\u006D\u0065':"\u004D\u0041\u002D\u0054\u0041\u002D\u0042\u0041\u0053\u0054\u0041\u002D\u0052\u0044\u0041\u0053",'\u0065\u006C\u006F':2000,"main":'Scarlet'},{'\u006E\u0061\u006D\u0065':"\u0050\u0069\u0072\u0075\u006C\u006F",'\u0065\u006C\u006F':2000,"main":"\u004D\u006F\u0072\u0064\u0065\u0078"},{'\u006E\u0061\u006D\u0065':'Cold G','\u0065\u006C\u006F':2000,"main":'Mordex'},{'\u006E\u0061\u006D\u0065':"\u0050\u006C\u00E1\u0074\u0061\u006E\u006F","elo":2000,'\u006D\u0061\u0069\u006E':'Ónix'},{"name":'Rex','\u0065\u006C\u006F':2000,"main":"\u0057\u0075\u0020\u0053\u0068\u0061\u006E\u0067"},{'\u006E\u0061\u006D\u0065':'La bestia',"elo":2000,'\u006D\u0061\u0069\u006E':"\u004D\u006F\u0072\u0064\u0065\u0078"},{'\u006E\u0061\u006D\u0065':'Pontuloco',"elo":2000,"main":"\u0053\u0063\u0061\u0072\u006C\u0065\u0074"},{"name":'Mxnopla',"elo":2000,'\u006D\u0061\u0069\u006E':'Nix'},{'\u006E\u0061\u006D\u0065':'Waka','\u0065\u006C\u006F':2000,"main":"\u0054\u0065\u007A\u0063\u0061"}];if(navbarToggle&&navbarMenu){navbarToggle['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("kcilc".split("").reverse().join(""),()=>{navbarToggle['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0074\u006F\u0067\u0067\u006C\u0065']("evitca".split("").reverse().join(""));navbarMenu['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0074\u006F\u0067\u0067\u006C\u0065']("\u0061\u0063\u0074\u0069\u0076\u0065");});}const closeModal=()=>{modal['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("\u0061\u0063\u0074\u0069\u0076\u0065");};window['\u0063\u006C\u006F\u0073\u0065\u004D\u006F\u0064\u0061\u006C']=closeModal;gsap['\u0072\u0065\u0067\u0069\u0073\u0074\u0065\u0072\u0050\u006C\u0075\u0067\u0069\u006E'](ScrollTrigger,ScrollToPlugin);const navbarLinks=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("]\"#\"=^ferh[a unem-rabvan.".split("").reverse().join(""));navbarLinks['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](link=>{link['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("kcilc".split("").reverse().join(""),event=>{event['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();var _0x7fa=(116568^116575)+(701209^701209);const target=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072'](link['\u0067\u0065\u0074\u0041\u0074\u0074\u0072\u0069\u0062\u0075\u0074\u0065']("ferh".split("").reverse().join("")));_0x7fa=(569115^569115)+(531196^531197);if(target){gsap['\u0074\u006F'](window,{"duration":1.1,'\u0073\u0063\u0072\u006F\u006C\u006C\u0054\u006F':target,"ease":"\u0070\u006F\u0077\u0065\u0072\u0033\u002E\u0069\u006E\u004F\u0075\u0074"});}if(navbarToggle&&navbarMenu){navbarToggle['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("evitca".split("").reverse().join(""));navbarMenu['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("evitca".split("").reverse().join(""));}});});var _0x62ddc=(923990^923986)+(515364^515372);const revealTargets=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0061\u0062\u006F\u0075\u0074\u002D\u0063\u0061\u0072\u0064\u002C\u0020\u002E\u0066\u006F\u0075\u006E\u0064\u0065\u0072\u002D\u0063\u0061\u0072\u0064\u002C\u0020\u002E\u0073\u0065\u0072\u0076\u0069\u0063\u0065\u002D\u0063\u0061\u0072\u0064\u002D\u006D\u006F\u0064\u0065\u0072\u006E\u002C\u0020\u002E\u006C\u0065\u0061\u0064\u0065\u0072\u0062\u006F\u0061\u0072\u0064\u002D\u0070\u0061\u006E\u0065\u006C\u002C\u0020\u002E\u006D\u0061\u0070\u0073\u002D\u0070\u0061\u006E\u0065\u006C");_0x62ddc="fnkkmp".split("").reverse().join("");gsap['\u0073\u0065\u0074'](revealTargets,{"opacity":0,'\u0079':24});ScrollTrigger['\u0062\u0061\u0074\u0063\u0068'](revealTargets,{"start":"\u0074\u006F\u0070\u0020\u0038\u0035\u0025","batchMax":8,"onEnter":batch=>{gsap['\u0074\u006F'](batch,{'\u006F\u0070\u0061\u0063\u0069\u0074\u0079':1,'\u0079':0,"duration":0.9,'\u0065\u0061\u0073\u0065':'power2.out','\u0073\u0074\u0061\u0067\u0067\u0065\u0072':{'\u0065\u0061\u0063\u0068':0.08,'\u0066\u0072\u006F\u006D':'start'}});}});const heroSection=document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("noitces-oreh.".split("").reverse().join(""));if(heroSection){gsap['\u0066\u0072\u006F\u006D'](heroSection,{"opacity":0,'\u0079':20,"duration":1,"ease":'power3.out'});}document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("koob-ntb.".split("").reverse().join(""))['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](button=>{button['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0063\u006C\u0069\u0063\u006B",event=>{const card=event['\u0063\u0075\u0072\u0072\u0065\u006E\u0074\u0054\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']("nredom-drac-ecivres.".split("").reverse().join(""));if(card){coachInput['\u0076\u0061\u006C\u0075\u0065']=card['\u0064\u0061\u0074\u0061\u0073\u0065\u0074']['\u0063\u006F\u0061\u0063\u0068'];}packageSelect['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']='';packs[coachInput['\u0076\u0061\u006C\u0075\u0065']]['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](pack=>{var _0x9c58b=(650009^650010)+(462470^462468);const option=document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u006F\u0070\u0074\u0069\u006F\u006E");_0x9c58b=(464172^464169)+(748838^748833);option['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=pack;packageSelect['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](option);});modal['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']("\u0061\u0063\u0074\u0069\u0076\u0065");});});function getEloClass(elo){if(elo>=(546642^548318))return"\u0065\u006C\u006F\u002D\u0068\u0069\u0067\u0068";if(elo>=(266637^268525))return"dim-ole".split("").reverse().join("");return"\u0065\u006C\u006F\u002D\u006C\u006F\u0077";}function renderTable(data){const _0xb26b=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u006C\u0065\u0061\u0064\u0065\u0072\u0062\u006F\u0061\u0072\u0064\u0042\u006F\u0064\u0079");_0xb26b['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']='';data['\u0066\u006F\u0072\u0045\u0061\u0063\u0068']((player,index)=>{_0xb26b['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C']+=`
+﻿const navbarToggle = document.querySelector('.navbar-toggle');
+const navbarMenu = document.querySelector('.navbar-menu');
+const modal = document.getElementById('coachModal');
+const coachInput = document.getElementById('coach');
+const packageSelect = document.getElementById('package');
+const toast = document.getElementById('toast');
+const coachForm = document.getElementById('coachForm');
+
+const packs = {
+    Beerck: [
+        '1 Hora de Coaching Básico - $12', 
+        '2 Horas de Coaching Intensivo - $20', 
+        '3 Horas + Sparring & Técnicas Avanzadas - $35'
+    ],
+    wSrun: [
+        '1 Hora de Coaching Básico - $10', 
+        '2 Horas de Coaching Intensivo - $15', 
+        '3 Horas + Sparring & Técnicas Avanzadas - $30'
+    ],
+    Space: [
+        '1 Hora de Coaching Básico - $15', 
+        '2 Horas de Coaching Intensivo - $30', 
+        '3 Horas + Sparring & Técnicas Avanzadas - $50'
+    ],
+    Hanabi: [
+        '1 Hora de Coaching Básico - $15', 
+        '2 Horas de Coaching Intensivo - $30', 
+        '3 Horas + Sparring & Técnicas Avanzadas - $50'
+    ],
+     Milka: [
+        '1 Hora de Coaching Básico - $12', 
+        '2 Horas de Coaching Intensivo - $20', 
+        '3 Horas + Sparring & Técnicas Avanzadas - $35'
+    ]
+};
+
+const players = [
+    { name: 'Zomber', elo: 2900, main: 'Val' },
+    { name: 'Hanabi', elo: 2900, main: 'Hattori' },
+    { name: 'Space', elo: 2700, main: 'Wu Shang' },
+    { name: 'Milka', elo: 2600, main: 'Caspian' },
+    { name: 'Beerck', elo: 2500, main: 'Tezca' },
+    { name: 'Wsrun', elo: 2500, main: 'Ulgrim' },
+    { name: 'Cocaine', elo: 2400, main: 'Orión' },
+    { name: 'Perzival', elo: 2300, main: 'Brynn' },
+    { name: 'El Bicho', elo: 2300, main: 'Diana' },
+    { name: 'Johnny', elo: 2200, main: 'Mordex' },
+    { name: 'Topurio', elo: 2200, main: 'Teros' },
+    { name: 'MA-TA-BASTA-RDAS', elo: 2000, main: 'Scarlet' },
+    { name: 'Pirulo', elo: 2000, main: 'Mordex' },
+    { name: 'Cold G', elo: 2000, main: 'Mordex' },
+    { name: 'Plátano', elo: 2000, main: 'Ónix' },
+    { name: 'Rex', elo: 2000, main: 'Wu Shang' },
+    { name: 'La bestia', elo: 2000, main: 'Mordex' },
+    { name: 'Pontuloco', elo: 2000, main: 'Scarlet' },
+    { name: 'Mxnopla', elo: 2000, main: 'Nix' },
+    { name: 'Waka', elo: 2000, main: 'Tezca' },
+];
+
+if (navbarToggle && navbarMenu) {
+    navbarToggle.addEventListener('click', () => {
+        navbarToggle.classList.toggle('active');
+        navbarMenu.classList.toggle('active');
+    });
+}
+
+const closeModal = () => {
+    modal.classList.remove('active');
+};
+
+window.closeModal = closeModal;
+
+gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
+
+const navbarLinks = document.querySelectorAll('.navbar-menu a[href^="#"]');
+
+navbarLinks.forEach((link) => {
+    link.addEventListener('click', (event) => {
+        event.preventDefault();
+
+        const target = document.querySelector(link.getAttribute('href'));
+
+        if (target) {
+            gsap.to(window, {
+                duration: 1.1,
+                scrollTo: target,
+                ease: 'power3.inOut'
+            });
+        }
+
+        if (navbarToggle && navbarMenu) {
+            navbarToggle.classList.remove('active');
+            navbarMenu.classList.remove('active');
+        }
+    });
+});
+
+const revealTargets = document.querySelectorAll('.about-card, .founder-card, .service-card-modern, .leaderboard-panel, .maps-panel');
+
+gsap.set(revealTargets, { opacity: 0, y: 24 });
+
+ScrollTrigger.batch(revealTargets, {
+    start: 'top 85%',
+    batchMax: 8,
+    onEnter: (batch) => {
+        gsap.to(batch, {
+            opacity: 1,
+            y: 0,
+            duration: 0.9,
+            ease: 'power2.out',
+            stagger: {
+                each: 0.08,
+                from: 'start'
+            }
+        });
+    }
+});
+
+const heroSection = document.querySelector('.hero-section');
+
+if (heroSection) {
+    gsap.from(heroSection, {
+        opacity: 0,
+        y: 20,
+        duration: 1,
+        ease: 'power3.out'
+    });
+}
+
+document.querySelectorAll('.btn-book').forEach((button) => {
+    button.addEventListener('click', (event) => {
+        const card = event.currentTarget.closest('.service-card-modern');
+
+        if (card) {
+            coachInput.value = card.dataset.coach;
+        }
+
+        packageSelect.innerHTML = '';
+
+        packs[coachInput.value].forEach((pack) => {
+            const option = document.createElement('option');
+            option.textContent = pack;
+            packageSelect.appendChild(option);
+        });
+
+        modal.classList.add('active');
+    });
+});
+
+function getEloClass(elo) {
+    if (elo >= 2700) return 'elo-high';
+    if (elo >= 2400) return 'elo-mid';
+    return 'elo-low';
+}
+
+function renderTable(data) {
+    const body = document.getElementById('leaderboardBody');
+
+    body.innerHTML = '';
+
+    data.forEach((player, index) => {
+        body.innerHTML += `
             <tr>
-                <td>#${index+(689507^689506)}</td>
-                <td>${player['\u006E\u0061\u006D\u0065']}</td>
-                <td class="${getEloClass(player['\u0065\u006C\u006F'])}">${player['\u0065\u006C\u006F']}</td>
-                <td>${player['\u006D\u0061\u0069\u006E']}</td>
+                <td>#${index + 1}</td>
+                <td>${player.name}</td>
+                <td class="${getEloClass(player.elo)}">${player.elo}</td>
+                <td>${player.main}</td>
             </tr>
-        `;});}function updateTable(_0xcdca9f){const _0x_0x1ac=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u006C\u0061\u0079\u0065\u0072")['\u0076\u0061\u006C\u0075\u0065']['\u0074\u006F\u004C\u006F\u0077\u0065\u0072\u0043\u0061\u0073\u0065']();const _0x2_0xe76=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("niaMretlif".split("").reverse().join(""))['\u0076\u0061\u006C\u0075\u0065'];_0xcdca9f=(512634^512636)+(724422^724430);var _0xda8e3b=(259317^259316)+(894395^894392);const _0x67e4f=document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("olEtros".split("").reverse().join(""))['\u0076\u0061\u006C\u0075\u0065'];_0xda8e3b=(427037^427028)+(486617^486616);let _0xc40d=[...players];if(_0x_0x1ac){_0xc40d=_0xc40d['\u0066\u0069\u006C\u0074\u0065\u0072'](player=>player['\u006E\u0061\u006D\u0065']['\u0074\u006F\u004C\u006F\u0077\u0065\u0072\u0043\u0061\u0073\u0065']()['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073'](_0x_0x1ac)||player['\u006D\u0061\u0069\u006E']['\u0074\u006F\u004C\u006F\u0077\u0065\u0072\u0043\u0061\u0073\u0065']()['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073'](_0x_0x1ac));}if(_0x2_0xe76!=="lla".split("").reverse().join("")){_0xc40d=_0xc40d['\u0066\u0069\u006C\u0074\u0065\u0072'](player=>player['\u006D\u0061\u0069\u006E']===_0x2_0xe76);}_0xc40d['\u0073\u006F\u0072\u0074']((first,second)=>_0x67e4f==="\u0061\u0073\u0063"?first['\u0065\u006C\u006F']-second['\u0065\u006C\u006F']:second['\u0065\u006C\u006F']-first['\u0065\u006C\u006F']);renderTable(_0xc40d);}["\u0073\u0065\u0061\u0072\u0063\u0068\u0050\u006C\u0061\u0079\u0065\u0072","niaMretlif".split("").reverse().join(""),"\u0073\u006F\u0072\u0074\u0045\u006C\u006F"]['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](elementId=>{document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](elementId)['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0069\u006E\u0070\u0075\u0074",updateTable);document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](elementId)['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0063\u0068\u0061\u006E\u0067\u0065",updateTable);});updateTable();coachForm['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0073\u0075\u0062\u006D\u0069\u0074",async event=>{event['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();var _0xea_0x422=(711457^711457)+(534655^534650);const now=Date['\u006E\u006F\u0077']();_0xea_0x422='\u006D\u0070\u006C\u006C\u0065\u0066';var _0x3e_0x415=(833081^833085)+(422454^422450);const threeHoursInMs=(233958^233957)*(910795^910839)*(683815^683803)*(977253^977549);_0x3e_0x415="bnoimi".split("").reverse().join("");let requestHistory=JSON['\u0070\u0061\u0072\u0073\u0065'](localStorage['\u0067\u0065\u0074\u0049\u0074\u0065\u006D']("stseuqeRhcaoc".split("").reverse().join(""))||"\u005B\u005D");requestHistory=requestHistory['\u0066\u0069\u006C\u0074\u0065\u0072'](timestamp=>now-timestamp<threeHoursInMs);if(requestHistory['\u006C\u0065\u006E\u0067\u0074\u0068']>=(265791^265788)){toast['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="\u274C\u0020\u004C\u00ED\u006D\u0069\u0074\u0065\u0020\u0064\u0065\u0020\u0073\u006F\u006C\u0069\u0063\u0069\u0074\u0075\u0064\u0065\u0073\u0020\u0061\u006C\u0063\u0061\u006E\u007A\u0061\u0064\u006F\u002E\u0020\u0049\u006E\u0074\u0065\u006E\u0074\u0061\u0020\u006D\u00E1\u0073\u0020\u0074\u0061\u0072\u0064\u0065\u002E";toast['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']="4444ff#".split("").reverse().join("");toast['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']("\u0073\u0068\u006F\u0077");setTimeout(()=>{toast['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("\u0073\u0068\u006F\u0077");toast['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']='';},212457^209481);return;}var _0xe887eb=(204005^204002)+(139170^139172);const data={"user":coachForm['\u0065\u006C\u0065\u006D\u0065\u006E\u0074\u0073']['\u0075\u0073\u0065\u0072']['\u0076\u0061\u006C\u0075\u0065']['\u0074\u0072\u0069\u006D'](),"discord":coachForm['\u0065\u006C\u0065\u006D\u0065\u006E\u0074\u0073']['\u0064\u0069\u0073\u0063\u006F\u0072\u0064']['\u0076\u0061\u006C\u0075\u0065']['\u0074\u0072\u0069\u006D'](),'\u0063\u006F\u0061\u0063\u0068':coachForm['\u0065\u006C\u0065\u006D\u0065\u006E\u0074\u0073']['\u0063\u006F\u0061\u0063\u0068']['\u0076\u0061\u006C\u0075\u0065'],"package":coachForm['\u0065\u006C\u0065\u006D\u0065\u006E\u0074\u0073']['\u0070\u0061\u0063\u006B\u0061\u0067\u0065']['\u0076\u0061\u006C\u0075\u0065'],'\u0065\u006C\u006F':coachForm['\u0065\u006C\u0065\u006D\u0065\u006E\u0074\u0073']['\u0065\u006C\u006F']['\u0076\u0061\u006C\u0075\u0065'],'\u0067\u006F\u0061\u006C':coachForm['\u0065\u006C\u0065\u006D\u0065\u006E\u0074\u0073']['\u0067\u006F\u0061\u006C']['\u0076\u0061\u006C\u0075\u0065']['\u0074\u0072\u0069\u006D']()};_0xe887eb='\u006B\u006F\u0066\u0071\u006A\u0062';let _0x3dgf;const submitBtn=coachForm['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0062\u0075\u0074\u0074\u006F\u006E\u005B\u0074\u0079\u0070\u0065\u003D\u0022\u0073\u0075\u0062\u006D\u0069\u0074\u0022\u005D");_0x3dgf="mpfkpc".split("").reverse().join("");const originalBtnText=submitBtn['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074'];submitBtn['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="\u0045\u004E\u0056\u0049\u0041\u004E\u0044\u004F\u002E\u002E\u002E";submitBtn['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=!![];try{var _0x6d09c=(208544^208550)+(114885^114882);const response=await fetch("\u002F\u0061\u0070\u0069\u002F\u0073\u0065\u006E\u0064",{"method":'POST','\u0068\u0065\u0061\u0064\u0065\u0072\u0073':{"\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0054\u0079\u0070\u0065":'application/json'},"body":JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](data)});_0x6d09c=(170046^170042)+(613106^613104);if(!response['\u006F\u006B'])throw new Error("rodivres le ne rorrE".split("").reverse().join(""));requestHistory['\u0070\u0075\u0073\u0068'](now);localStorage['\u0073\u0065\u0074\u0049\u0074\u0065\u006D']("\u0063\u006F\u0061\u0063\u0068\u0052\u0065\u0071\u0075\u0065\u0073\u0074\u0073",JSON['\u0073\u0074\u0072\u0069\u006E\u0067\u0069\u0066\u0079'](requestHistory));modal['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("\u0061\u0063\u0074\u0069\u0076\u0065");toast['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="etnematcerroc adaivne duticiloS \u2714".split("").reverse().join("");toast['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']="\u0023\u0034\u0043\u0041\u0046\u0035\u0030";toast['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']("wohs".split("").reverse().join(""));coachForm['\u0072\u0065\u0073\u0065\u0074']();}catch(error){toast['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']="\u274C\u0020\u004E\u006F\u0020\u0073\u0065\u0020\u0070\u0075\u0064\u006F\u0020\u0065\u006E\u0076\u0069\u0061\u0072\u0020\u006C\u0061\u0020\u0073\u006F\u006C\u0069\u0063\u0069\u0074\u0075\u0064";toast['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']="\u0023\u0066\u0066\u0034\u0034\u0034\u0034";toast['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']("\u0073\u0068\u006F\u0077");}finally{submitBtn['\u0074\u0065\u0078\u0074\u0043\u006F\u006E\u0074\u0065\u006E\u0074']=originalBtnText;submitBtn['\u0064\u0069\u0073\u0061\u0062\u006C\u0065\u0064']=false;setTimeout(()=>{toast['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("\u0073\u0068\u006F\u0077");toast['\u0073\u0074\u0079\u006C\u0065']['\u0062\u0061\u0063\u006B\u0067\u0072\u006F\u0075\u006E\u0064']='';},303516^305700);}});
+        `;
+    });
+}
+
+function updateTable() {
+    const search = document.getElementById('searchPlayer').value.toLowerCase();
+    const filter = document.getElementById('filterMain').value;
+    const sort = document.getElementById('sortElo').value;
+
+    let data = [...players];
+
+    if (search) {
+        data = data.filter((player) => player.name.toLowerCase().includes(search) || player.main.toLowerCase().includes(search));
+    }
+
+    if (filter !== 'all') {
+        data = data.filter((player) => player.main === filter);
+    }
+
+    data.sort((first, second) => sort === 'asc' ? first.elo - second.elo : second.elo - first.elo);
+
+    renderTable(data);
+}
+
+['searchPlayer', 'filterMain', 'sortElo'].forEach((elementId) => {
+    document.getElementById(elementId).addEventListener('input', updateTable);
+    document.getElementById(elementId).addEventListener('change', updateTable);
+});
+
+updateTable();
+
+// --- LÓGICA DE ENVÍO DE FORMULARIO (SEGURO) ---
+coachForm.addEventListener('submit', async (event) => {
+    event.preventDefault();
+
+    // 1. SISTEMA ANTI-SPAM (Máximo 3 peticiones cada 3 horas)
+    const now = Date.now();
+    const threeHoursInMs = 3 * 60 * 60 * 1000;
+    
+    // Obtenemos el registro de envíos del navegador
+    let requestHistory = JSON.parse(localStorage.getItem('coachRequests') || '[]');
+    // Limpiamos los intentos que sean más viejos de 3 horas
+    requestHistory = requestHistory.filter(timestamp => now - timestamp < threeHoursInMs);
+
+    if (requestHistory.length >= 3) {
+        toast.textContent = '❌ Límite de solicitudes alcanzado. Intenta más tarde.';
+        toast.style.background = '#ff4444'; // Color de error
+        toast.classList.add('show');
+        setTimeout(() => { toast.classList.remove('show'); toast.style.background = ''; }, 4000);
+        return; // Detenemos la ejecución aquí
+    }
+
+    // 2. RECOPILACIÓN DE DATOS (Con .trim() para limpiar espacios vacíos extra)
+    const data = {
+        user: coachForm.elements.user.value.trim(),
+        discord: coachForm.elements.discord.value.trim(),
+        coach: coachForm.elements.coach.value,
+        package: coachForm.elements.package.value,
+        elo: coachForm.elements.elo.value,
+        goal: coachForm.elements.goal.value.trim()
+    };
+
+    // Cambiamos el botón a estado de carga
+    const submitBtn = coachForm.querySelector('button[type="submit"]');
+    const originalBtnText = submitBtn.textContent;
+    submitBtn.textContent = 'ENVIANDO...';
+    submitBtn.disabled = true;
+
+    try {
+        // 3. ENVIAMOS LOS DATOS A NUESTRA FUNCIÓN OCULTA DE NETLIFY
+        const response = await fetch('/api/send', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+        });
+
+        if (!response.ok) throw new Error('Error en el servidor');
+
+        // Registramos este envío exitoso en el navegador para el anti-spam
+        requestHistory.push(now);
+        localStorage.setItem('coachRequests', JSON.stringify(requestHistory));
+
+        modal.classList.remove('active');
+        toast.textContent = '✔ Solicitud enviada correctamente';
+        toast.style.background = '#4CAF50'; // Color de éxito
+        toast.classList.add('show');
+        coachForm.reset();
+
+    } catch (error) {
+        toast.textContent = '❌ No se pudo enviar la solicitud';
+        toast.style.background = '#ff4444';
+        toast.classList.add('show');
+    } finally {
+        // Restauramos el botón pase lo que pase
+        submitBtn.textContent = originalBtnText;
+        submitBtn.disabled = false;
+        
+        setTimeout(() => { 
+            toast.classList.remove('show'); 
+            toast.style.background = ''; 
+        }, 3000);
+    }
+});
